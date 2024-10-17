@@ -4,3 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
+build/*
+*.prof.ncu-rep
+*.prof.nsys-rep
